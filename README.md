@@ -26,7 +26,7 @@ npm install
 4. Créez un fichier `.env` à la racine du projet et configurez les variables d'environnement suivantes :
 
 ```txt
-MONGODB_URI=your_mongodb_uri
+MONGODB_URI=mongodb_uri
 PORT=3000
 ```
 
