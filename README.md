@@ -13,7 +13,7 @@ git clone https://github.com/samTeouri/quizz-api.git
 2. Accédez au répertoire du projet :
 
 ```bash
-git clone https://github.com/samTeouri/quizz-api.git
+cd quizz-api
 ```
 
 
